@@ -1,13 +1,6 @@
 ---
-title: "Pietro Delfino"
-author: "Curriculum vitae"
-date:
-output:
-  pdf_document: default
-  word_document: default
-  html_document: default
+title: "Curriculum vitae"
 ---
-
 
 Department of Biotechnology, University of Verona
 
