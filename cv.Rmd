@@ -1,5 +1,73 @@
 ---
-title: "*Curriculum vitae*"
+title: "Pietro Delfino"
+author: "Curriculum vitae"
+date:
+output:
+  pdf_document: default
+  word_document: default
+  html_document: default
 ---
 
-![**My CV**](docs/CV.pdf)
+
+Department of Biotechnology, University of Verona
+
+Strada Le Grazie 15, Verona
+
+<pietro.delfino@univr.it>
+
+www.github.com/pietrod
+
+Born April 26, 1988 - Genova
+
+## RESEARCH EXPERIENCE
+*May-November 2015*  **Laimburg Research Center** - Researcher in the lab of Applied Genomics and Molecular Biology - Advisor: Dr. Thomas Letschka
+
+*December 2013-January 2015*  **ETH Zürich** - Research Assistant at the Institute of Agricultural Sciences - Advisor: Prof. Bruno Studer
+
+*November 2012-November 2013* **Fondazione Edmund Mach** - MSc Internship in the Department of Genomics - Advisor: Dr. Daniel J. Sargent
+
+## EDUCATION
+*2015-present*  **University of Verona** - PhD Biotechnology and Bioinformatics - Tutor: Prof. Diana Bellin Title: *‘Candidate-genes association study for grapevine veraison’*
+
+*2010-2013* **University of Bologna** - MSc Evolutionary Biology, graduated *cum laude* - Supervisor: Dr. Riccardo Velasco
+
+*2007-2010* **University of Genova** - BSc Medical Biotechnology - Supervisor: Prof. Ranieri Cancedda
+
+## TEACHING EXPERIENCE
+*2015-2016* **University of Verona** - Course 'Omics Sciences': Laboratory of RNA-Seq Data Analysis
+
+## HONORS & AWARDS
+*June 2016* **X International Symposium on Grapevine Physiology and Biotechnology** - Poster award winner for the section *‘Advances in phenotyping, -omic technologies, large data’*
+
+## JOURNALS REVIEWED FOR
+*BMC Bioinformatics*
+
+## PUBLICATIONS
+Buti, M., Sargent, D. J., Mhelembe, K. G., **Delfino, P.**, Tobutt, K. R., &amp; Velasco, R. (2016).
+Genotyping-by-sequencing in an orphan plant species *Physocarpus opulifolius* helps identify the evolutionary origins of the genus *Prunus*. *BMC Research Notes*, 9, 268.
+http://doi.org/10.1186/s13104-016-2069-4
+
+## SKILLS
+* Languages
+    + English (C1)
+    + German (A1.2)  
+* Computer, programming, informatics
+    + Unix operating systems
+    + Bash scripting (intermediate)
+    + R for statistics, bioinformatics - *Bioconductor*, data visualization (upper intermediate)
+    + R scripting (intermediate)
+    + Python (basic)
+    + Version control - *Git*, *Github*
+    + Reports, interactive tables, graphics and reports - *Shiny*, *Plotly*  
+* Bioinformatics and computational biology
+    + Whole genome sequencing (*Illumina*) data analysis: quality control, alignment, variant calling, filtering, SNP functional prediction
+    + Microarray data analysis
+    + RNA-Seq data analysis: quality control, traditional and alignment-free methods, differential expression, gene ontology enrichment, network and pathway analysis
+    + Re-analysis of published omics data from GEO and SRA databases
+    + Meta-analysis and integration of genetic, genomic and transcriptomic data
+    + Population genetics and genomics (phylogenetic analysis, population structure)
+    + Genetic map construction from molecular markers (SSR and SNP)  
+* Molecular biology
+    + DNA and RNA purification from animal and plant tissues
+    + PCR, qPCR, High Resolution Melting (HRM)
+    + Fragment analysis (capillary electrophoresis)
