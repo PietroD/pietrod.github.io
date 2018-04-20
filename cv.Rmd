@@ -1,7 +1,5 @@
 ---
-title: "Curriculum vitae"
+title: "*Curriculum vitae*"
 ---
 
-**My CV**
-
-![Alt](docs/CV.pdf)
+![**My CV**](docs/CV.pdf)
