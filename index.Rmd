@@ -2,12 +2,16 @@
 title: "Pietro's Website"
 ---
 
-*Roses are Red,*
+*"Roses are Red,*
 
 *Violets are Blue*
 
-*Unexpected '{' on line 32*
+*Unexpected '{' on line 32"*
+
+
 [Haiku by an **R** enthusiast]
+
+
 
 ![This is me bad looking in the mountains](images/DSCN0877.JPG)
 
