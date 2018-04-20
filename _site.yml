@@ -9,6 +9,8 @@ navbar:
       href: about.html
     - text: "Workfolio"
       href: workfolio.html
+    - text: "CV"
+      href: cv.html
     - text: "Publications"
       href: publications.html
     - text: "Contact"

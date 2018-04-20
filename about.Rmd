@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-I am a PhD candidate in Biotechnology at the University of Verona. Officially. But I prefer to consider myself as a newbie in everything. This means that I am very curious and I love to discover new things. This makes it almost impossible for me to become expert in a specific field. Well, I think nowdays it is almost impossible for everyone to be an expert in a field, given how fast new "things" are created, produced, discovered.
+I am a PhD candidate in Biotechnology at the University of Verona. Officially. But I prefer to consider myself as a newbie in everything. This means that I am very curious and I love to learn and discover new things. This makes it almost impossible for me to become expert in a specific field. Well, I think nowdays it is almost impossible for everyone to be an expert in a field, given how fast new "things" are created, produced, discovered.
 
 Apart from the romanticisms, I like life sciences and as a PhD candidate in Biotechnology (plant genetics) my project aims at [**the identification of the genes involved in the regulation of flowering and veraison in grapevine**](docs/Delfino_Poster_SIGA_2017.pdf). Veraison is that stage of berry development where the berries start to become soft and change color (from green to white/red).
 

@@ -1,0 +1,7 @@
+---
+title: "Curriculum vitae"
+---
+
+**My CV**
+
+![Alt](docs/CV.pdf)
