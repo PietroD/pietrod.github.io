@@ -6,7 +6,7 @@ Department of Biotechnology, University of Verona
 
 Strada Le Grazie 15, Verona
 
-<pietro.delfino@univr.it>
+pietro.delfino (at) univr (dot) it>
 
 www.github.com/pietrod
 
