@@ -2,4 +2,13 @@
 title: "Pietro's Website"
 ---
 
-My personal website
+*Roses are Red,*
+*Violets are Blue*
+*Unexpected '{' on line 32*
+[Haiku by an R enthusiast]
+
+![This is me bad looking in the mountains](images/DSCN0877.JPG)
+
+![I like mountains](images/IMG_20170116_145740204_HDR.jpg)
+
+
