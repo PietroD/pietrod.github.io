@@ -1,14 +1,16 @@
-name: "Pietro's website"
+name: "Pietro Delfino"
 output_dir: "."
 navbar:
-  title: "Pietro's Website"
-  left:
+  title: "Pietro Delfino"
+  right:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
     - text: "Workfolio"
       href: workfolio.html
+    - text: "Contact"
+      href: contact.html
 output:
   html_document:
     theme: flatly
