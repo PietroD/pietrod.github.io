@@ -1,14 +1,14 @@
 ---
-title: "Curriculum vitae"
+title: "*Curriculum vitae*"
 ---
 
 Department of Biotechnology, University of Verona
 
 Strada Le Grazie 15, Verona
 
-pietro.delfino (at) univr (dot) it>
+pietro.delfino (at) univr (dot) it
 
-www.github.com/pietrod
+<www.github.com/pietrod>
 
 Born April 26, 1988 - Genova
 
