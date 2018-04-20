@@ -6,4 +6,3 @@ setwd("/home/dianalab/DATA/BIOINFORMATICS/Dropbox/PETER/GITHUB/my_website/pietro
 
 #render your sweet site. 
 rmarkdown::render_site()
-
