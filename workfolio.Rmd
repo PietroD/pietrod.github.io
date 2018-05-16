@@ -1,8 +1,7 @@
 ---
 title: "Workfolio"
 ---
-<div style="margin-bottom:50px;">
-</div>
+
 A list of some of my works where you can check my **R** skills
 
 
