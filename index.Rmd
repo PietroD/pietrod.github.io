@@ -1,7 +1,9 @@
 ---
 title: "Pietro's website"
 ---
-<br>
+<div style="margin-bottom:100px;">
+</div>
+
 "*Roses are Red,*
 
 *Violets are Blue*
@@ -11,8 +13,9 @@ title: "Pietro's website"
 
 [Haiku by an **R** enthusiast]
 
+<div style="margin-bottom:50px;">
+</div>
 
-<br>
 ![This is me bad looking in the mountains](images/DSCN0877.JPG)
 
 ![I like mountains](images/IMG_20170116_145740204_HDR.jpg)
