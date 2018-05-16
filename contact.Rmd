@@ -1,5 +1,5 @@
 ---
-  title: "Contact"
+  title: "Contacts"
 ---
   
 I'd love to get in contact if you are interested in what I am doing and want to collaborate or you are simply curious!

@@ -4,10 +4,12 @@ title: "Workfolio"
 
 A list of some of my works where you can check my **R** skills
 
-**Mining VIVC database**
+
+**Mining VIVC Database**
 
 
 https://pietrod.github.io/VIVC_database
+
 
 **Shinyadegenet**
 
@@ -15,7 +17,13 @@ https://pietrod.github.io/VIVC_database
 https://pietrod.shinyapps.io/shinyAdegenet/
 
 
-**Clustering gene expression data**
+**Clustering Gene Expression Data**
 
 
 https://pietrod.github.io/veraison-clusters/
+
+
+**RNA-Seq Data Analysis course** (in Italian)
+
+
+https://pietrod.github.io/Transcriptomic-course-2018/
