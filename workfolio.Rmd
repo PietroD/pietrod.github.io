@@ -1,7 +1,8 @@
 ---
 title: "Workfolio"
 ---
-
+<div style="margin-bottom:50px;">
+</div>
 A list of some of my works where you can check my **R** skills
 
 
@@ -9,19 +10,22 @@ A list of some of my works where you can check my **R** skills
 
 
 https://pietrod.github.io/VIVC_database
-
+<div style="margin-bottom:50px;">
+</div>
 
 **Shinyadegenet**
 
 
 https://pietrod.shinyapps.io/shinyAdegenet/
-
+<div style="margin-bottom:50px;">
+</div>
 
 **Clustering Gene Expression Data**
 
 
 https://pietrod.github.io/veraison-clusters/
-
+<div style="margin-bottom:50px;">
+</div>
 
 **RNA-Seq Data Analysis course** (in Italian)
 

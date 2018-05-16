@@ -1,7 +1,8 @@
 ---
-  title: "Contacts"
+title: "Contacts"
 ---
-  
+<div style="margin-bottom:50px;">
+</div>
 I'd love to get in contact if you are interested in what I am doing and want to collaborate or you are simply curious!
 
 **email:** delfino.pietro (at) gmail (dot) com
