@@ -1,9 +1,10 @@
 ---
 title: "Workfolio"
 ---
-
 A list of some of my works where you can check my **R** skills
 
+<div style="margin-bottom:50px;">
+</div>
 
 **Mining VIVC Database**
 
