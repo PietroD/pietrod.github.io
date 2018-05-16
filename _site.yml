@@ -13,7 +13,7 @@ navbar:
       href: cv.html
     - text: "Publications"
       href: publications.html
-    - text: "Contact"
+    - text: "Contacts"
       href: contact.html
 output:
   html_document:
