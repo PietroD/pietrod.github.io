@@ -1,7 +1,8 @@
 ---
-title: "*Curriculum vitae*"
+title: '*Curriculum vitae*'
 ---
-
+<div style="margin-bottom:50px;">
+</div>
 Department of Biotechnology, University of Verona
 
 Strada Le Grazie 15, Verona
