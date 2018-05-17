@@ -12,35 +12,42 @@ pietro.delfino (at) univr (dot) it
 [](www.github.com/pietrod)
 
 Born April 26, 1988 - Genova
-
+<div style="margin-bottom:30px;">
+</div>
 #### RESEARCH EXPERIENCE
 *May-November 2015*  **Laimburg Research Center** - Researcher in the lab of Applied Genomics and Molecular Biology - Advisor: Dr. Thomas Letschka
 
 *December 2013-January 2015*  **ETH Zürich** - Research Assistant at the Institute of Agricultural Sciences - Advisor: Prof. Bruno Studer
 
 *November 2012-November 2013* **Fondazione Edmund Mach** - MSc Internship in the Department of Genomics - Advisor: Dr. Daniel J. Sargent
-
+<div style="margin-bottom:30px;">
+</div>
 #### EDUCATION
 *2015-present*  **University of Verona** - PhD Biotechnology and Bioinformatics - Tutor: Prof. Diana Bellin Title: *‘Candidate-genes association study for grapevine veraison’*
 
 *2010-2013* **University of Bologna** - MSc Evolutionary Biology, graduated *cum laude* - Supervisor: Dr. Riccardo Velasco
 
 *2007-2010* **University of Genova** - BSc Medical Biotechnology - Supervisor: Prof. Ranieri Cancedda
-
+<div style="margin-bottom:30px;">
+</div>
 #### TEACHING EXPERIENCE
 *2015-2016* **University of Verona** - Course 'Omics Sciences': Laboratory of RNA-Seq Data Analysis
-
+<div style="margin-bottom:30px;">
+</div>
 #### HONORS & AWARDS
 *June 2016* **X International Symposium on Grapevine Physiology and Biotechnology** - Poster award winner for the section *‘Advances in phenotyping, -omic technologies, large data’*
-
+<div style="margin-bottom:30px;">
+</div>
 #### JOURNALS REVIEWED FOR
 *BMC Bioinformatics*
-
+<div style="margin-bottom:30px;">
+</div>
 #### PUBLICATIONS
 Buti, M., Sargent, D. J., Mhelembe, K. G., **Delfino, P.**, Tobutt, K. R., &amp; Velasco, R. (2016).
 Genotyping-by-sequencing in an orphan plant species *Physocarpus opulifolius* helps identify the evolutionary origins of the genus *Prunus*. *BMC Research Notes*, 9, 268.
 http://doi.org/10.1186/s13104-016-2069-4
-
+<div style="margin-bottom:30px;">
+</div>
 #### SKILLS
 * Languages
     + English (C1)
