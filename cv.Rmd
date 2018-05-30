@@ -40,35 +40,6 @@ Born April 26, 1988 - Genova
 </div>
 #### JOURNALS REVIEWED FOR
 *BMC Bioinformatics*
-<div style="margin-bottom:30px;">
-</div>
-#### PUBLICATIONS
-Buti, M., Sargent, D. J., Mhelembe, K. G., **Delfino, P.**, Tobutt, K. R., &amp; Velasco, R. (2016).
-Genotyping-by-sequencing in an orphan plant species *Physocarpus opulifolius* helps identify the evolutionary origins of the genus *Prunus*. *BMC Research Notes*, 9, 268.
-http://doi.org/10.1186/s13104-016-2069-4
-<div style="margin-bottom:30px;">
-</div>
-#### SKILLS
-* Languages
-    + English (C1)
-    + German (A1.2)  
-* Computer, programming, informatics
-    + Unix operating systems
-    + Bash scripting (intermediate)
-    + R for statistics, bioinformatics - *Bioconductor*, data visualization (upper intermediate)
-    + R scripting (intermediate)
-    + Python (basic)
-    + Version control - *Git*, *Github*
-    + Reports, interactive tables, graphics and reports - *Shiny*, *Plotly*  
-* Bioinformatics and computational biology
-    + Whole genome sequencing (*Illumina*) data analysis: quality control, alignment, variant calling, filtering, SNP functional prediction
-    + Microarray data analysis
-    + RNA-Seq data analysis: quality control, traditional and alignment-free methods, differential expression, gene ontology enrichment, network and pathway analysis
-    + Re-analysis of published omics data from GEO and SRA databases
-    + Meta-analysis and integration of genetic, genomic and transcriptomic data
-    + Population genetics and genomics (phylogenetic analysis, population structure)
-    + Genetic map construction from molecular markers (SSR and SNP)  
-* Molecular biology
-    + DNA and RNA purification from animal and plant tissues
-    + PCR, qPCR, High Resolution Melting (HRM)
-    + Fragment analysis (capillary electrophoresis)
+
+
+
