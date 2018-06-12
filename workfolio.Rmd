@@ -6,6 +6,13 @@ A list of some of my works where you can check my **R** skills
 <div style="margin-bottom:50px;">
 </div>
 
+**t-SNE algorithm applied to genetic markers data**
+
+
+https://pietrod.github.io/tSNE_population_genetics/
+<div style="margin-bottom:50px;">
+</div>
+
 **Mining VIVC Database**
 
 
@@ -20,14 +27,14 @@ https://pietrod.shinyapps.io/shinyAdegenet/
 <div style="margin-bottom:50px;">
 </div>
 
+**RNA-Seq Data Analysis course** (in Italian)
+
+
+https://pietrod.github.io/Transcriptomic-course-2018/
+
 **Clustering Gene Expression Data**
 
 
 https://pietrod.github.io/veraison-clusters/
 <div style="margin-bottom:50px;">
 </div>
-
-**RNA-Seq Data Analysis course** (in Italian)
-
-
-https://pietrod.github.io/Transcriptomic-course-2018/
