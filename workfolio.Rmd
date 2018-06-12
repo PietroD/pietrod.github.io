@@ -31,6 +31,8 @@ https://pietrod.shinyapps.io/shinyAdegenet/
 
 
 https://pietrod.github.io/Transcriptomic-course-2018/
+<div style="margin-bottom:50px;">
+</div>
 
 **Clustering Gene Expression Data**
 
