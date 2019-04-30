@@ -69,9 +69,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -90,8 +88,14 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -107,7 +111,6 @@ body {
   padding-top: 65px;
   margin-top: -65px;
 }
-
 .section h2 {
   padding-top: 65px;
   margin-top: -65px;
@@ -127,6 +130,43 @@ body {
 .section h6 {
   padding-top: 65px;
   margin-top: -65px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -148,19 +188,85 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -215,14 +321,10 @@ $(document).ready(function () {
 <div style="margin-bottom:50px;">
 
 </div>
-<p>I am a PhD candidate in Biotechnology at the University of Verona. Officially. But I prefer to consider myself as a newbie in everything. This means that I am very curious and I love to learn and discover new things.</p>
-<p>Apart from the romanticisms, I like life sciences and as a PhD candidate in Biotechnology (plant genetics) my project aims at <a href="docs/Delfino_Poster_SIGA_2017.pdf"><strong>the identification of the genes involved in the regulation of flowering and veraison in grapevine</strong></a>. Veraison is that stage of berry development where the berries start to become soft and change color (from green to white/red).</p>
+<p>Hello! I am a postdoctoral researcher in the Department of Diagnostic and Public Health at the University of Verona. I did my PhD in Biotechnology at the same university. But I prefer to consider myself as a newbie in everything. This means that I am very curious and I love to learn and discover new things.</p>
+<p>I like life sciences and as a PhD candidate in Biotechnology (plant genetics) my project aimed at <a href="docs/Delfino_Poster_SIGA_2017.pdf"><strong>the identification of the genes involved in the regulation of flowering and veraison in grapevine</strong></a>. Veraison is that stage of berry development where the berries start to become soft and change color (from green to white/red).</p>
 <p>The approaches I am following are mainly <em>in silico</em>; that means that I work most of the time at my laptop with genomic sequences, genetic polymorphisms and phenotypic data. For the specialists, this is a genetic association study (i.e. Genome-Wide Association Study <a href="https://en.wikipedia.org/wiki/Genome-wide_association_study"><strong>GWAS</strong></a>, or Candidate-Gene Association Study). Some they consider me <em>Bioinformatician</em>, I prefer the term <em>Computational biologist</em>, since I trained as a biotechnologist and I had not informatic competences more or less two years before now.</p>
 <p>Recently I fall in love with <a href="https://en.wikipedia.org/wiki/Data"><strong>data</strong></a> and ways to manipulate them. Since then I became interested in that wonderful world related to <a href="https://www.r-project.org/"><strong>R</strong></a>, which is my daily working “language”.</p>
-<div class="figure">
-<img src="images/IMG_20160809_102812137_HDR.jpg" alt="Veraison is cool!" />
-<p class="caption">Veraison is cool!</p>
-</div>
 
 
 

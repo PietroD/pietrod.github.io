@@ -69,9 +69,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -90,8 +88,14 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -107,7 +111,6 @@ body {
   padding-top: 65px;
   margin-top: -65px;
 }
-
 .section h2 {
   padding-top: 65px;
   margin-top: -65px;
@@ -127,6 +130,43 @@ body {
 .section h6 {
   padding-top: 65px;
   margin-top: -65px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -148,19 +188,85 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -215,16 +321,16 @@ $(document).ready(function () {
 <div style="margin-bottom:50px;">
 
 </div>
-<p>Department of Biotechnology, University of Verona</p>
-<p>Strada Le Grazie 15, Verona</p>
+<p>Department of Diagnostic and Public Health, University of Verona</p>
+<p>Piazzale L.A. Scuro 10, 37134</p>
 <p>pietro.delfino (at) univr (dot) it</p>
 <p><a href="www.github.com/pietrod"></a></p>
-Born April 26, 1988 - Genova
 <div style="margin-bottom:30px;">
 
 </div>
 <div id="research-experience" class="section level4">
 <h4>RESEARCH EXPERIENCE</h4>
+<p><em>From October 2018</em> <strong>University of Verona</strong> - Postdoctoral researcher - Section of Anatomic pathology- Advisor: Dr. Vincenzo Corbo</p>
 <p><em>May-November 2015</em> <strong>Laimburg Research Center</strong> - Researcher in the lab of Applied Genomics and Molecular Biology - Advisor: Dr. Thomas Letschka</p>
 <p><em>December 2013-January 2015</em> <strong>ETH Zürich</strong> - Research Assistant at the Institute of Agricultural Sciences - Advisor: Prof. Bruno Studer</p>
 <em>November 2012-November 2013</em> <strong>Fondazione Edmund Mach</strong> - MSc Internship in the Department of Genomics - Advisor: Dr. Daniel J. Sargent
@@ -234,7 +340,7 @@ Born April 26, 1988 - Genova
 </div>
 <div id="education" class="section level4">
 <h4>EDUCATION</h4>
-<p><em>2015-present</em> <strong>University of Verona</strong> - PhD Biotechnology and Bioinformatics - Tutor: Prof. Diana Bellin Title: <em>‘Candidate-genes association study for grapevine veraison’</em></p>
+<p><em>2015-2018</em> <strong>University of Verona</strong> - PhD Biotechnology and Bioinformatics - Tutor: Prof. Diana Bellin Title: <em>‘Candidate-genes association study for grapevine veraison’</em></p>
 <p><em>2010-2013</em> <strong>University of Bologna</strong> - MSc Evolutionary Biology, graduated <em>cum laude</em> - Supervisor: Dr. Riccardo Velasco</p>
 <em>2007-2010</em> <strong>University of Genova</strong> - BSc Medical Biotechnology - Supervisor: Prof. Ranieri Cancedda
 <div style="margin-bottom:30px;">

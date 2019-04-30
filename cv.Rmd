@@ -3,18 +3,19 @@ title: '*Curriculum vitae*'
 ---
 <div style="margin-bottom:50px;">
 </div>
-Department of Biotechnology, University of Verona
+Department of Diagnostic and Public Health, University of Verona
 
-Strada Le Grazie 15, Verona
+Piazzale L.A. Scuro 10, 37134
 
 pietro.delfino (at) univr (dot) it
 
 [](www.github.com/pietrod)
 
-Born April 26, 1988 - Genova
 <div style="margin-bottom:30px;">
 </div>
 #### RESEARCH EXPERIENCE
+*From October 2018* **University of Verona** - Postdoctoral researcher - Section of Anatomic pathology- Advisor: Dr. Vincenzo Corbo
+
 *May-November 2015*  **Laimburg Research Center** - Researcher in the lab of Applied Genomics and Molecular Biology - Advisor: Dr. Thomas Letschka
 
 *December 2013-January 2015*  **ETH Zürich** - Research Assistant at the Institute of Agricultural Sciences - Advisor: Prof. Bruno Studer
@@ -23,7 +24,7 @@ Born April 26, 1988 - Genova
 <div style="margin-bottom:30px;">
 </div>
 #### EDUCATION
-*2015-present*  **University of Verona** - PhD Biotechnology and Bioinformatics - Tutor: Prof. Diana Bellin Title: *‘Candidate-genes association study for grapevine veraison’*
+*2015-2018*  **University of Verona** - PhD Biotechnology and Bioinformatics - Tutor: Prof. Diana Bellin Title: *‘Candidate-genes association study for grapevine veraison’*
 
 *2010-2013* **University of Bologna** - MSc Evolutionary Biology, graduated *cum laude* - Supervisor: Dr. Riccardo Velasco
 
