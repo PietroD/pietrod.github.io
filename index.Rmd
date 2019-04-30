@@ -16,8 +16,8 @@ title: "Pietro's website"
 <div style="margin-bottom:50px;">
 </div>
 
-![This is me](images/IMG_0468.JPG)
+![This is me](images/IMG_0468.JPG){width=30% }
 
-![I like mountains](images/IMG_20170116_145740204_HDR.jpg)
+![These are mountains. I like mountains](images/IMG_20170116_145740204_HDR.jpg)
 
 

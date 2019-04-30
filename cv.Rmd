@@ -31,16 +31,7 @@ pietro.delfino (at) univr (dot) it
 *2007-2010* **University of Genova** - BSc Medical Biotechnology - Supervisor: Prof. Ranieri Cancedda
 <div style="margin-bottom:30px;">
 </div>
-#### TEACHING EXPERIENCE
-*2015-2018* **University of Verona** - Course 'Omics Sciences': Laboratory of RNA-Seq Data Analysis
-<div style="margin-bottom:30px;">
-</div>
-#### HONORS & AWARDS
-*June 2016* **X International Symposium on Grapevine Physiology and Biotechnology** - Poster award winner for the section *‘Advances in phenotyping, -omic technologies, large data’*
-<div style="margin-bottom:30px;">
-</div>
-#### JOURNALS REVIEWED FOR
-*BMC Bioinformatics*
+
 
 
 
