@@ -1,9 +1,9 @@
 ---
 title: "Publications"
-bibliography: "docs/savedrecs1.bib"
-nocite: '@*'
+# bibliography: "docs/savedrecs1.bib"
+# nocite: '@*'
 ---
-A list of publications where I contributed (to be continued...hopefully)
+You can check my Google Scholar profile at https://scholar.google.it/citations?user=DE7U7CYAAAAJ&hl=it
 
 <div style="margin-bottom:50px;">
 </div>
